@@ -6,9 +6,9 @@
 
 ## CSV
 
-name,flight_time,range,resolution,position_accuracy,payload,wind_resistance,thermal
-DJI Mavic 3 Enterprise Thermal,45,15,48,1.5,1.0,12,1
-Autel EVO Max 4T,42,20,50,1.2,1.2,15,1
+    name,flight_time,range,resolution,position_accuracy,payload,wind_resistance,thermal
+    DJI Mavic 3 Enterprise Thermal,45,15,48,1.5,1.0,12,1
+    Autel EVO Max 4T,42,20,50,1.2,1.2,15,1
 
 ## JSON
 
